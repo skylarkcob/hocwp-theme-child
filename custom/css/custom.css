@@ -1,0 +1,176 @@
+/* Defined colors ---------------------------- */
+
+/* General ---------------------------- */
+
+body {
+}
+
+/* Site header ---------------------------- */
+
+/* Site content ---------------------------- */
+
+/* Widgets ---------------------------- */
+
+/* Site footer ---------------------------- */
+
+/* Responsive ---------------------------- */
+
+/* =========== For larger screen width =========== */
+
+@media only screen and (min-width: 2133px) {
+
+}
+
+@media only screen and (min-width: 2400px) {
+
+}
+
+@media only screen and (min-width: 2560px) {
+
+}
+
+@media only screen and (min-width: 2880px) {
+
+}
+
+@media only screen and (min-width: 3840px) {
+
+}
+
+@media only screen and (min-width: 5760px) {
+
+}
+
+@media only screen and (min-width: 7680px) {
+
+}
+
+/*
+ * Base screen width is 1920px
+ */
+
+/* =========== For smaller screen width =========== */
+
+@media only screen and (max-width: 1745px) {
+
+}
+
+/* 125% screen width -------------------- */
+@media only screen and (max-width: 1536px) {
+
+}
+
+@media only screen and (max-width: 1403px) {
+
+}
+
+/* 150% screen width -------------------- */
+@media only screen and (max-width: 1280px) {
+
+}
+
+@media only screen and (max-width: 1240px) {
+
+}
+
+@media only screen and (max-width: 1100px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 980px) {
+
+}
+
+@media only screen and (max-width: 955px) {
+
+}
+
+@media only screen and (max-width: 880px) {
+
+}
+
+@media only screen and (max-width: 800px) {
+
+}
+
+/*
+ * WordPress Admin Bar change height.
+ */
+@media only screen and (max-width: 782px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 740px) {
+
+}
+
+@media only screen and (max-width: 720px) {
+
+}
+
+@media only screen and (max-width: 640px) {
+
+}
+
+@media only screen and (max-width: 620px) {
+
+}
+
+/*
+ * WordPress Admin Bar un-fixed.
+ */
+@media only screen and (max-width: 600px) {
+
+}
+
+@media only screen and (max-width: 568px) {
+
+}
+
+@media only screen and (max-width: 563px) {
+
+}
+
+@media only screen and (max-width: 549px) {
+
+}
+
+@media only screen and (max-width: 534px) {
+
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+@media only screen and (max-width: 420px) {
+
+}
+
+@media only screen and (max-width: 360px) {
+
+}
+
+@media only screen and (max-width: 338px) {
+
+}
+
+@media only screen and (max-width: 330px) {
+
+}
+
+@media only screen and (max-width: 320px) {
+
+}
+
+@media print {
+
+}
