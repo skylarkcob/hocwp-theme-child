@@ -25,6 +25,8 @@ final class HT_Child_Custom {
 	}
 
 	public function after_setup_theme_action() {
+		add_theme_support( 'title-tag' );
+		add_theme_support( 'automatic-feed-links' );
 		load_child_theme_textdomain( $this->text_domain, get_stylesheet_directory() . '/custom/languages' );
 	}
 }
