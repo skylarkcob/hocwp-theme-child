@@ -31,8 +31,8 @@ final class HT_Child_Custom {
 	}
 }
 
-function HT_Child() {
+function ht_child() {
 	return HT_Child_Custom::get_instance();
 }
 
-HT_Child();
+ht_child();
