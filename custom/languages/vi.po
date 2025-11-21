@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Themes - Default\n"
-"POT-Creation-Date: 2024-12-18 20:53+0700\n"
-"PO-Revision-Date: 2024-12-18 20:58+0700\n"
+"POT-Creation-Date: 2025-11-21 12:05+0700\n"
+"PO-Revision-Date: 2025-11-21 12:05+0700\n"
 "Last-Translator: Cuong Lai Dinh <laidinhcuongvn@gmail.com>\n"
 "Language-Team: HocWP Team - laidinhcuongvn@gmail.com - www.ldcuong.com\n"
 "Language: vi\n"
@@ -10,29 +10,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 "X-Poedit-Basepath: ../..\n"
-"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
-"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
-"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: custom\n"
-"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-0: .\n"
 
-#~ msgid "Test"
-#~ msgstr "Thử nghiệm"
-
-#~ msgid "Primary"
-#~ msgstr "Chính"
-
-#~ msgid "Sidebar"
-#~ msgstr "Thanh bên"
-
-#~ msgid "Add widgets here."
-#~ msgstr "Thêm widget vào chỗ này."
+#~ msgid "Test my trans"
+#~ msgstr "Thử dịch coi nào"
 
 #~ msgid "Administration Tools"
 #~ msgstr "Công cụ quản trị"
+
+#~ msgid "Themes:"
+#~ msgstr "Giao diện:"
+
+#~ msgid "Plugins:"
+#~ msgstr "Plugin:"
+
+#~ msgid "Databases:"
+#~ msgstr "Cơ sở dữ liệu:"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Bạn chắc chứ?"
+
+#~ msgid "Download"
+#~ msgstr "Tải về"
+
+#~ msgid "Download Theme & Plugin"
+#~ msgstr "Tải giao diện & plugin"
 
 #~ msgid "Update Administrative Email"
 #~ msgstr "Cập nhật email quản trị"
@@ -273,6 +280,9 @@ msgstr ""
 #~ msgid "Export"
 #~ msgstr "Xuất"
 
+#~ msgid "Copy option from:"
+#~ msgstr "Sao chép dữ liệu từ:"
+
 #~ msgid "Option value:"
 #~ msgstr "Giá trị option:"
 
@@ -290,6 +300,28 @@ msgstr ""
 
 #~ msgid "Import"
 #~ msgstr "Nhập"
+
+#~ msgid "Choose Database:"
+#~ msgstr "Chọn cơ sở dữ liệu:"
+
+#~ msgid "Database File:"
+#~ msgstr "Tập tin cơ sở dữ liệu:"
+
+#~ msgid "Database has been exported!"
+#~ msgstr "Cơ sở dữ liệu đã được xuất xong!"
+
+#~ msgid "Database has been imported!"
+#~ msgstr "Cơ sở dữ liệu đã được nhập xong!"
+
+#~ msgid ""
+#~ "You are about to import data into an active database, are you sure you "
+#~ "want to continue?"
+#~ msgstr ""
+#~ "Bạn đang chuẩn bị nhập dữ liệu vào cơ sở dữ liệu đang hoạt động, bạn có "
+#~ "chắc là mình muốn tiếp tục chứ?"
+
+#~ msgid "Databases"
+#~ msgstr "Cơ sở dữ liệu"
 
 #~ msgid "Database Optimize"
 #~ msgstr "Tối ưu cơ sở dữ liệu"
@@ -309,6 +341,12 @@ msgstr ""
 
 #~ msgid "Transients have been removed!"
 #~ msgstr "Tất cả transient đã được xóa!"
+
+#~ msgid "Expired transients have been removed!"
+#~ msgstr "Tất cả transient hết hạn đã được xóa!"
+
+#~ msgid "Delete Expired"
+#~ msgstr "Xóa hết hạn"
 
 #~ msgid "Vietnamese Administrative Boundaries"
 #~ msgstr "Địa giới hành chính Việt Nam"
@@ -479,6 +517,9 @@ msgstr ""
 #~ msgid "Twitter"
 #~ msgstr "Twitter"
 
+#~ msgid "Email"
+#~ msgstr "Email"
+
 #~ msgid "URL:"
 #~ msgstr "Đường dẫn:"
 
@@ -609,6 +650,19 @@ msgstr ""
 #~ msgid "Mobile Logo"
 #~ msgstr "Logo cho điện thoại"
 
+#, php-format
+#~ msgid ""
+#~ "Sometimes your <a href=\"%s\" target=\"_blank\">website name</a> is too "
+#~ "long, use your website's short name setting as an alternative in some "
+#~ "cases."
+#~ msgstr ""
+#~ "Đôi khi <a href=\"%s\" target=\"_blank\">tên trang web</a> của bạn quá "
+#~ "dài, sử dụng cài đặt tên trang web ngắn để thay thế cho một vài trường "
+#~ "hợp."
+
+#~ msgid "Site Short Name"
+#~ msgstr "Tên trang ngắn"
+
 #~ msgid "Home"
 #~ msgstr "Trang chủ"
 
@@ -696,6 +750,9 @@ msgstr ""
 
 #~ msgid "Default"
 #~ msgstr "Mặc định"
+
+#~ msgid "List"
+#~ msgstr "Danh sách"
 
 #~ msgid "Breadcrumb Type"
 #~ msgstr "Kiểu breadcrumb"
@@ -918,6 +975,19 @@ msgstr ""
 #~ msgid "%s Icon"
 #~ msgstr "Biểu tượng %s"
 
+#~ msgid "Fix Zalo Me"
+#~ msgstr "Sửa Zalo Me"
+
+#~ msgid ""
+#~ "List zalo account phone number with QR code. Each account contains phone "
+#~ "number and QR code separated by colon \":\" then put in new line if you "
+#~ "have more than one account. Example: 0987654321:ktewgb7i3ixe"
+#~ msgstr ""
+#~ "Danh sách tài khoản số điện thoại Zalo với mã QR. Mỗi tài khoản bao gồm "
+#~ "số điện thoại và mã QR được phân cách bởi dấu hai chấm \":\", sau đó điền "
+#~ "vào dòng mới nếu bạn có nhiều hơn một tài khoản. Ví dụ: "
+#~ "0987654321:ktewgb7i3ixe"
+
 #~ msgid "reCAPTCHA Secret Key"
 #~ msgstr "reCAPTCHA Secret Key"
 
@@ -1081,6 +1151,9 @@ msgstr ""
 #~ msgid "Choose post type"
 #~ msgstr "Chọn loại bài viết"
 
+#~ msgid "Delete this file"
+#~ msgstr "Xóa tập tin này"
+
 #~ msgid "Invalid email."
 #~ msgstr "Địa chỉ email không đúng."
 
@@ -1108,8 +1181,52 @@ msgstr ""
 #~ msgid "Invalid option name or empty option value."
 #~ msgstr "Tên option không đúng hoặc giá trị option trống."
 
+#~ msgid "Nothing changed!"
+#~ msgstr "Không có gì thay đổi!"
+
+#, php-format
+#~ msgid "Option \"%s\" has been copied from \"%s\" successfully!"
+#~ msgstr "Dữ liệu \"%s\" đã được sao chép từ \"%s\" thành công!"
+
+#~ msgid "Option has been imported successfully!"
+#~ msgstr "Dữ liệu đã được nhập thành công!"
+
 #~ msgid "Please fill the required fields above."
 #~ msgstr "Xin vui lòng nhập các mục bắt buộc bên trên."
+
+#, php-format
+#~ msgid "Cannot generate download link for theme \"%s\"."
+#~ msgstr "Không thể tạo đường dẫn tải về cho giao diện \"%s\"."
+
+#, php-format
+#~ msgid "Cannot generate download link for plugin \"%s\"."
+#~ msgstr "Không thể tạo đường dẫn tải về cho plugin \"%s\"."
+
+#, php-format
+#~ msgid "Cannot generate download link for database \"%s\"."
+#~ msgstr "Không thể tạo đường dẫn tải về cho cơ sở dữ liệu \"%s\"."
+
+#, php-format
+#~ msgid "Database \"%s\" has been exported successfully."
+#~ msgstr "Cơ sở dữ liệu \"%s\" đã được xuất thành công."
+
+#~ msgid "Cannot export database, please try again later."
+#~ msgstr "Không thể xuất cơ sở dữ liệu, vui lòng thử lại sau."
+
+#~ msgid "Please select a database name first."
+#~ msgstr "Vui lòng chọn tên cơ sở dữ liệu trước."
+
+#~ msgid "Cannot import database, please try again later."
+#~ msgstr "Không thể nhập cơ sở dữ liệu, vui lòng thử lại sau."
+
+#~ msgid "Invalid database file."
+#~ msgstr "Tập tin cơ sở dữ liệu không đúng."
+
+#~ msgid "File has been deleted!"
+#~ msgstr "Tập tin đã được xóa!"
+
+#~ msgid "Invalid nonce!"
+#~ msgstr "Mã bảo mật không đúng!"
 
 #~ msgid "AJAX nonce is invalid."
 #~ msgstr "AJAX nonce không đúng."
@@ -1269,25 +1386,18 @@ msgstr ""
 #~ msgid "For more information:"
 #~ msgstr "Để biết thêm chi tiết:"
 
-#~ msgid ""
-#~ "<a href=\"https://codewp47.com/huong-dan-su-dung/wordpress-dashboard-toan-"
-#~ "tap/\" target=\"_blank\">How to use WordPress Dashboard</a>"
+#, php-format
+#~ msgid "<a href=\"%s\" target=\"_blank\">How to use WordPress Dashboard</a>"
 #~ msgstr ""
-#~ "<a href=\"https://codewp47.com/huong-dan-su-dung/wordpress-dashboard-toan-"
-#~ "tap/\" target=\"_blank\">Hướng dẫn sử dụng bảng điều khiển</a>"
+#~ "<a href=\"%s\" target=\"_blank\">Hướng dẫn sử dụng bảng điều khiển</a>"
 
-#~ msgid ""
-#~ "<a href=\"https://codewp47.com/huong-dan-su-dung/cai-dat-giao-dien/\" "
-#~ "target=\"_blank\">Documentation on Theme Options</a>"
-#~ msgstr ""
-#~ "<a href=\"https://codewp47.com/huong-dan-su-dung/cai-dat-giao-dien/\" "
-#~ "target=\"_blank\">Hướng dẫn cài đặt giao diện</a>"
+#, php-format
+#~ msgid "<a href=\"%s\" target=\"_blank\">Documentation on Theme Options</a>"
+#~ msgstr "<a href=\"%s\" target=\"_blank\">Hướng dẫn cài đặt giao diện</a>"
 
-#~ msgid ""
-#~ "<a href=\"https://ldcuong.com/lien-he/\" target=\"_blank\">Contact Us</a>"
-#~ msgstr ""
-#~ "<a href=\"https://ldcuong.com/lien-he/\" target=\"_blank\">Liên hệ với "
-#~ "chúng tôi</a>"
+#, php-format
+#~ msgid "<a href=\"%s\" target=\"_blank\">Contact Us</a>"
+#~ msgstr "<a href=\"%s\" target=\"_blank\">Liên hệ với chúng tôi</a>"
 
 #~ msgid "Overview"
 #~ msgstr "Tổng quan"
@@ -1555,8 +1665,8 @@ msgstr ""
 #~ msgid "Advanced Settings"
 #~ msgstr "Cài đặt nâng cao"
 
-#~ msgid "Default Sidebar"
-#~ msgstr "Sidebar mặc định"
+#~ msgid "Sidebar"
+#~ msgstr "Thanh bên"
 
 #~ msgid "Display content box as full width."
 #~ msgstr "Hiển thị nội dung theo dạng full."
@@ -1618,6 +1728,15 @@ msgstr ""
 
 #~ msgid "Copy all"
 #~ msgstr "Sao chép tất cả"
+
+#~ msgid "Website Errors"
+#~ msgstr "Các lỗi trang web"
+
+#~ msgid "Read recent website errors on your server."
+#~ msgstr "Xem các lỗi trang web gần đây trên máy chủ của bạn."
+
+#~ msgid "Great! No recent error found on your server."
+#~ msgstr "Tuyệt vời! Không tìm thấy lỗi gần đây trên máy chủ của bạn."
 
 #~ msgid "Filter plugins list"
 #~ msgstr "Lọc danh sách gói mở rộng"
@@ -1719,9 +1838,8 @@ msgstr ""
 #~ msgid "Write your email message"
 #~ msgstr "Nhập nội dung mail của bạn"
 
-#, php-format
-#~ msgid "Test mail to %s"
-#~ msgstr "Gửi mail thử tới %s"
+#~ msgid "Send Test"
+#~ msgstr "Gửi thử"
 
 #~ msgid ""
 #~ "Thank you for using HocWP, your SMTP mail settings work successfully."
@@ -1981,6 +2099,20 @@ msgstr ""
 #~ msgid "Display widgets on 404 page."
 #~ msgstr "Hiển thị widget trên trang 404."
 
+#~ msgid ""
+#~ "<strong>HocWP Theme:</strong> Your current theme is a parent theme "
+#~ "developed by HocWP Team, please create a child theme to use it."
+#~ msgstr ""
+#~ "<strong>HocWP Theme</strong> Giao diện hiện tại của bạn là giao diện "
+#~ "(cha) gốc được phát triển bởi HocWP Team, vui lòng tạo một giao diện con "
+#~ "để sử dụng nó."
+
+#~ msgid "Change Theme"
+#~ msgstr "Thay đổi giao diện"
+
+#~ msgid "Missing Child Theme"
+#~ msgstr "Thiếu giao diện con"
+
 #~ msgid "Primary Color"
 #~ msgstr "Màu chính"
 
@@ -2044,6 +2176,13 @@ msgstr ""
 #, php-format
 #~ msgid "Check this out: %s"
 #~ msgstr "Kiểm tra điều này: %s"
+
+#~ msgid "Copy URL"
+#~ msgstr "Sao chép đường dẫn"
+
+#, php-format
+#~ msgid "Share on %s"
+#~ msgstr "Chia sẻ trên %s"
 
 #, php-format
 #~ msgid "Category: %s"
@@ -2142,6 +2281,27 @@ msgstr ""
 #~ msgid "Archives"
 #~ msgstr "Lưu trữ"
 
+#~ msgid ""
+#~ "This website uses cookies to ensure you get the best experience on our "
+#~ "website. By continuing to browse on this website, you accept the use of "
+#~ "cookies for the above purposes."
+#~ msgstr ""
+#~ "Trang web này sử dụng cookie để bảo đảm rằng bạn có trải nghiệm tốt nhất "
+#~ "khi truy cập trang web. Bằng cách tiếp tục truy cập trang web này, bạn "
+#~ "chấp nhận cách sử dụng cookie cho các mục đích trên."
+
+#, php-format
+#~ msgid ""
+#~ "We use cookies to give you the best possible website experience. <span>By "
+#~ "using %s, you agree to our <a href=\"%s\">%s</a></span>."
+#~ msgstr ""
+#~ "Chúng tôi sử dụng cookie để mang đến cho bạn trải nghiệm tốt nhất khi "
+#~ "truy cập trang web. <span>Bằng cách sử dụng %s, bạn đồng ý với <a "
+#~ "href=\"%s\">%s</a> của chúng tôi</span>."
+
+#~ msgid "Accept"
+#~ msgstr "Chấp nhận"
+
 #~ msgid "Page not found"
 #~ msgstr "Trang không được tìm thấy"
 
@@ -2181,11 +2341,23 @@ msgstr ""
 #~ msgid "Query parameters must be provided in full."
 #~ msgstr "Các tham số truy vấn phải được cung cấp đầy đủ."
 
+#~ msgid "-- Choose theme --"
+#~ msgstr "-- Chọn giao diện --"
+
+#~ msgid "Active Theme"
+#~ msgstr "Giao diện đang hoạt động"
+
+#~ msgid "-- Choose plugin --"
+#~ msgstr "-- Chọn plugin --"
+
+#~ msgid "-- Choose database --"
+#~ msgstr "-- Chọn cơ sở dữ liệu --"
+
+#~ msgid "Current"
+#~ msgstr "Hiện tại"
+
 #~ msgid "Submit"
 #~ msgstr "Gửi"
-
-#~ msgid "-- Choose sidebar --"
-#~ msgstr "-- Chọn sidebar --"
 
 #~ msgid "-- Choose term --"
 #~ msgstr "-- Chọn chuyên mục --"
@@ -2244,6 +2416,12 @@ msgstr ""
 #~ "Thu nhỏ ảnh theo kích thước chính xác (ảnh thu nhỏ sẽ được giữ nguyên tỉ "
 #~ "lệ)"
 
+#~ msgid "Drag and drop setting field to right panel for active it."
+#~ msgstr "Kéo và thả mục cài đặt sang khung bên phải để kích hoạt."
+
+#~ msgid "Sort Fields"
+#~ msgstr "Sắp xếp các mục"
+
 #~ msgid "Content:"
 #~ msgstr "Nội dung:"
 
@@ -2265,6 +2443,32 @@ msgstr ""
 #~ msgid "Drag to find address!"
 #~ msgstr "Kéo để tìm địa chỉ!"
 
+#, php-format
+#~ msgid "Welcome to %s - activate your account now"
+#~ msgstr "Chào mừng bạn đến với %s - kích hoạt tài khoản của bạn ngay bây giờ"
+
+#, php-format
+#~ msgid "Hi %s!"
+#~ msgstr "Xin chào %s!"
+
+#, php-format
+#~ msgid ""
+#~ "Thank you for creating an account on <a href=\"%s\" target=\"_blank\">%s</"
+#~ "a>."
+#~ msgstr ""
+#~ "Cảm ơn bạn đã tạo tài khoản trên <a href=\"%s\" target=\"_blank\">%s</a>."
+
+#~ msgid "Please activate your account now, by clicking on the following link:"
+#~ msgstr ""
+#~ "Vui lòng kích hoạt tài khoản của bạn ngay bây giờ bằng cách nhấn vào "
+#~ "đường dẫn bên dưới:"
+
+#~ msgid "activate my account"
+#~ msgstr "kích hoạt tài khoản của tôi"
+
+#~ msgid "Thank you!"
+#~ msgstr "Cảm ơn!"
+
 #~ msgid "<strong>ERROR:</strong> Javascript not activated!"
 #~ msgstr "<strong>Lỗi:</strong> Javascript không được kích hoạt!"
 
@@ -2283,6 +2487,11 @@ msgstr ""
 
 #~ msgid "File can not be compressed!"
 #~ msgstr "Tập tin không thể nén!"
+
+#, php-format
+#~ msgctxt "total ratings"
+#~ msgid "%s ratings"
+#~ msgstr "%s đánh giá"
 
 #, php-format
 #~ msgid "%s ago"
@@ -2332,6 +2541,9 @@ msgstr ""
 
 #~ msgid "Yearly"
 #~ msgstr "Hàng năm"
+
+#~ msgid "-- Choose sidebar --"
+#~ msgstr "-- Chọn sidebar --"
 
 #~ msgctxt "custom post type"
 #~ msgid "Add New"
@@ -2552,18 +2764,14 @@ msgstr ""
 #~ msgid "&larr; Back to %s"
 #~ msgstr "&larr; Trở lại %s"
 
+#~ msgid "Add widgets here."
+#~ msgstr "Thêm widget vào chỗ này."
+
 #~ msgid "Toggle menu"
 #~ msgstr "Chuyển đổi menu"
 
 #~ msgid "Menu"
 #~ msgstr "Trình đơn"
-
-#~ msgid ""
-#~ "The <strong>$sql_column</strong> argument just only contains MySQL query "
-#~ "inside (), it isn't full MySQL query."
-#~ msgstr ""
-#~ "Tham số <strong>$sql_column</strong> chỉ chứa truy vấn MySQL bên trong "
-#~ "ngoặc đơn (), chứ không phải chứa câu truy vấn MySQL đầy đủ."
 
 #~ msgid "Add a menu"
 #~ msgstr "Thêm trình đơn"
@@ -2610,6 +2818,21 @@ msgstr ""
 
 #~ msgid "Waiting..."
 #~ msgstr "Đang đợi..."
+
+#~ msgid "Week"
+#~ msgstr "Tuần"
+
+#~ msgid "Day"
+#~ msgstr "Ngày"
+
+#~ msgid "Hour"
+#~ msgstr "Giờ"
+
+#~ msgid "Minute"
+#~ msgstr "Phút"
+
+#~ msgid "Second"
+#~ msgstr "Giây"
 
 #~ msgid "Load more"
 #~ msgstr "Tải thêm"
@@ -2662,6 +2885,12 @@ msgstr ""
 #~ msgid "Split the article into multiple pages."
 #~ msgstr "Chia bài viết ra thành nhiều trang."
 
+#~ msgid "Link is not supported."
+#~ msgstr "Liên kết không được hỗ trợ."
+
+#~ msgid "Link can be opened."
+#~ msgstr "Liên kết có thể mở được."
+
 #~ msgid "Last login"
 #~ msgstr "Đăng nhập lần cuối"
 
@@ -2689,6 +2918,9 @@ msgstr ""
 
 #~ msgid "Accent Color"
 #~ msgstr "Màu nhấn"
+
+#~ msgid "Primary"
+#~ msgstr "Chính"
 
 #~ msgid "Secondary"
 #~ msgstr "Thứ hai"
@@ -2768,7 +3000,7 @@ msgstr ""
 #~ msgid ""
 #~ "<strong>%s:</strong> The site is experiencing technical difficulties. "
 #~ "Please contact administrator for more details. If you are owner of this "
-#~ "site, try to <a href=\"%s\">login here</a> to check it."
+#~ "site, try to <a href=\"%s\">log in here</a> to check it."
 #~ msgstr ""
 #~ "<strong>%s:</strong> Trang web đang gặp sự cố kỹ thuật. Xin vui lòng liên "
 #~ "hệ với người quản trị để biết thêm chi tiết. Nếu bạn là chủ của trang web "
@@ -2777,9 +3009,36 @@ msgstr ""
 #~ msgid "Missing Required Plugins"
 #~ msgstr "Thiếu các plugin bắt buộc"
 
+#~ msgid "Custom Readme"
+#~ msgstr "Readme tùy chỉnh"
+
+#~ msgid "Core Version"
+#~ msgstr "Phiên bản nhân"
+
+#~ msgid "Total Files"
+#~ msgstr "Tổng số tệp"
+
+#~ msgid "Real theme name"
+#~ msgstr "Tên giao diện thật"
+
+#~ msgid "Created date"
+#~ msgstr "Ngày khởi tạo"
+
+#~ msgid "Last updated"
+#~ msgstr "Cập nhật lần cuối"
+
+#~ msgid "Tested up to"
+#~ msgstr "Kiếm tra đến phiên bản"
+
+#~ msgid "Coder"
+#~ msgstr "Người code"
+
 #, php-format
 #~ msgid "%s Settings"
 #~ msgstr "Cài đặt %s"
+
+#~ msgid "Contact Author"
+#~ msgstr "Liên hệ tác giả"
 
 #~ msgid "Disable Upgrade"
 #~ msgstr "Vô hiệu hóa nâng cấp"
@@ -2829,31 +3088,6 @@ msgstr ""
 #~ msgid_plural "%s secs"
 #~ msgstr[0] "%s giây"
 
-#~ msgid ""
-#~ "This website uses cookies to ensure you get the best experience on our "
-#~ "website. By continuing to browse on this website, you accept the use of "
-#~ "cookies for the above purposes."
-#~ msgstr ""
-#~ "Trang web này sử dụng cookie để bảo đảm rằng bạn có trải nghiệm tốt nhất "
-#~ "khi truy cập trang web. Bằng cách tiếp tục truy cập trang web này, bạn "
-#~ "chấp nhận cách sử dụng cookie cho các mục đích trên."
-
-#, php-format
-#~ msgid ""
-#~ "We use cookies to give you the best possible website experience. <span>By "
-#~ "using %s, you agree to our <a href=\"%s\">%s</a></span>."
-#~ msgstr ""
-#~ "Chúng tôi sử dụng cookie để mang đến cho bạn trải nghiệm tốt nhất khi "
-#~ "truy cập trang web. <span>Bằng cách sử dụng %s, bạn đồng ý với <a "
-#~ "href=\"%s\">%s</a> của chúng tôi</span>."
-
-#~ msgid "Accept"
-#~ msgstr "Chấp nhận"
-
-#, php-format
-#~ msgid "Share on %s"
-#~ msgstr "Chia sẻ trên %s"
-
 #~ msgid "Submit URL"
 #~ msgstr "Gửi URL"
 
@@ -2887,16 +3121,87 @@ msgstr ""
 #~ msgid "by %s"
 #~ msgstr "bởi %s"
 
+#~ msgid ", "
+#~ msgstr ", "
+
 #, php-format
-#~ msgctxt "price format"
-#~ msgid "$%s"
-#~ msgstr "%sđ"
+#~ msgid "Posted in %1$s"
+#~ msgstr "Được đăng trong %1$s"
+
+#~ msgctxt "list item separator"
+#~ msgid ", "
+#~ msgstr ", "
+
+#, php-format
+#~ msgid "Tagged %1$s"
+#~ msgstr "Được gắn thẻ %1$s"
+
+#, php-format
+#~ msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+#~ msgstr "Để lại bình luận<span class=\"screen-reader-text\"> cho %s</span>"
+
+#, php-format
+#~ msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+#~ msgstr "Chỉnh sửa <span class=\"screen-reader-text\">%s</span>"
+
+#, php-format
+#~ msgid "Failed to get database size: %s"
+#~ msgstr "Lấy kích thước cơ sở dữ liệu thất bại: %s"
+
+#, php-format
+#~ msgid "File not found: %s"
+#~ msgstr "Tập tin không được tìm thấy: %s"
+
+#~ msgid "Cannot open zip file."
+#~ msgstr "Không thể mở tập tin zip."
+
+#~ msgid "SQL file not found in the ZIP archive."
+#~ msgstr "Tập tin SQL không được tìm thấy trong thư mục nén."
+
+#, php-format
+#~ msgid "Failed to open ZIP archive: %s"
+#~ msgstr "Mở tập tin nén zip thất bại: %s"
+
+#~ msgid "Cannot open gzip file."
+#~ msgstr "Không thể mở tập tin gzip."
+
+#, php-format
+#~ msgid "Failed to open .gz file: %s"
+#~ msgstr "Mở tập tin .gz thất bại: %s"
+
+#, php-format
+#~ msgid "Failed to read from .gz file: %s"
+#~ msgstr "Đọc tập tin .gz thất bại: %s"
+
+#, php-format
+#~ msgid "Unsupported file extension: %s"
+#~ msgstr "Đuôi tập tin không được hỗ trợ: %s"
+
+#, php-format
+#~ msgid "Failed to open file: %s"
+#~ msgstr "Không mở được tập tin: %s"
+
+#, php-format
+#~ msgid "Error executing query: %s"
+#~ msgstr "Lỗi thực thi truy vấn: %s"
+
+#~ msgid ""
+#~ "The <strong>$sql_column</strong> argument just only contains MySQL query "
+#~ "inside (), it isn't full MySQL query."
+#~ msgstr ""
+#~ "Tham số <strong>$sql_column</strong> chỉ chứa truy vấn MySQL bên trong "
+#~ "ngoặc đơn (), chứ không phải chứa câu truy vấn MySQL đầy đủ."
 
 #~ msgid "CAPTCHA service does not provide."
 #~ msgstr "Dịch vụ CAPTCHA không được cung cấp."
 
 #~ msgid "<strong>Error:</strong> Please correct the CAPTCHA."
 #~ msgstr "<strong>Lỗi:</strong> Xin vui lòng điền đúng mã bảo mật."
+
+#, php-format
+#~ msgctxt "price format"
+#~ msgid "$%s"
+#~ msgstr "%sđ"
 
 #, php-format
 #~ msgid ""
@@ -3289,6 +3594,9 @@ msgstr ""
 #~ msgid "Display post date?"
 #~ msgstr "Hiển thị ngày dăng?"
 
+#~ msgid "Display post date human time diff?"
+#~ msgstr "Hiển thị ngày đăng theo thời gian đọc được?"
+
 #~ msgid "Display post author?"
 #~ msgstr "Hiển thị tác giả?"
 
@@ -3328,6 +3636,12 @@ msgstr ""
 #~ msgid "Display full width thumbnail for even posts"
 #~ msgstr "Hiển thị hình ảnh rộng cho bài viết thứ tự chẵn"
 
+#~ msgid "First and last post with full width thumbnail"
+#~ msgstr "Bài viết đầu tiên và cuối cùng hiển thị ảnh rộng"
+
+#~ msgid "Display all posts with full width thumbnail"
+#~ msgstr "Hiển thị tất cả bài viết với ảnh rộng"
+
 #~ msgid "Display term as widget title?"
 #~ msgstr "Hiển thị chuyên mục làm tiêu đề?"
 
@@ -3341,8 +3655,8 @@ msgstr ""
 #~ msgstr "Xem thêm:"
 
 #~ msgid ""
-#~ "Show more link, syntax: URL|TEXT|POSITION. For example: https://ldcuong."
-#~ "com|LD Cuong|top."
+#~ "Show more link, syntax: URL|TEXT|POSITION. For example: https://"
+#~ "ldcuong.com|LD Cuong|top."
 #~ msgstr ""
 #~ "Hiển thị xem thêm, cú pháp: URL|TEXT|POSITION. Ví dụ: https://ldcuong.com|"
 #~ "LD Cuong|top."
@@ -3427,29 +3741,6 @@ msgstr ""
 #~ msgid "Number of top commenters to show:"
 #~ msgstr "Số lượng người bình luận cần hiển thị:"
 
-#~ msgid ", "
-#~ msgstr ", "
-
-#, php-format
-#~ msgid "Posted in %1$s"
-#~ msgstr "Được đăng trong %1$s"
-
-#~ msgctxt "list item separator"
-#~ msgid ", "
-#~ msgstr ", "
-
-#, php-format
-#~ msgid "Tagged %1$s"
-#~ msgstr "Được gắn thẻ %1$s"
-
-#, php-format
-#~ msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
-#~ msgstr "Để lại bình luận<span class=\"screen-reader-text\"> cho %s</span>"
-
-#, php-format
-#~ msgid "Edit <span class=\"screen-reader-text\">%s</span>"
-#~ msgstr "Chỉnh sửa <span class=\"screen-reader-text\">%s</span>"
-
 #~ msgid "View your shopping cart"
 #~ msgstr "Xem giỏ hàng của bạn"
 
@@ -3457,9 +3748,6 @@ msgstr ""
 #~ msgid "%d item"
 #~ msgid_plural "%d items"
 #~ msgstr[0] "%d sản phẩm"
-
-#~ msgid "Nothing Found"
-#~ msgstr "Không có gì được tìm thấy"
 
 #, php-format
 #~ msgid ""
@@ -3484,6 +3772,9 @@ msgstr ""
 #, php-format
 #~ msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
 #~ msgstr "Đọc tiếp<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#~ msgid "Default Sidebar"
+#~ msgstr "Sidebar mặc định"
 
 #~ msgid "You need to delete site cache and CDN cache to see update."
 #~ msgstr ""
@@ -3633,9 +3924,6 @@ msgstr ""
 
 #~ msgid "All files compressed..."
 #~ msgstr "Tất cả các tập tin đã được nén..."
-
-#~ msgid "Creating zip file..."
-#~ msgstr "Đang tạo tập tin zip..."
 
 #~ msgid "The theme can not be compressed."
 #~ msgstr "Giao diện không thể nén."
@@ -3805,9 +4093,6 @@ msgstr ""
 
 #~ msgid "You can see more details here: %s"
 #~ msgstr "Bạn có thể xem thông tin chi tiết tại: %s"
-
-#~ msgid "%s minute"
-#~ msgstr "%s phút"
 
 #~ msgid "%s hour"
 #~ msgstr "%s giờ"
